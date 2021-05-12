@@ -2,4 +2,3 @@
 - 👀 I’m interested in AI
 - 👀 I have som expireince with Java 
 - 🌱 I’m currently learning Python
-- 📫 How to reach me ...
