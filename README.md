@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @Nitram0042
+- 👋 Hi, I’m @MartinReisinger
+- 👨‍🎓 I am currently studying my first semester in CS (Informatic) in Austria
